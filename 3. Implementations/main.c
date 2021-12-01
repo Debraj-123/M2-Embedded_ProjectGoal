@@ -1,5 +1,5 @@
 /**
- * @file SeatHeatingApp.c
+ * @file Main.c
  * 
  */
 
