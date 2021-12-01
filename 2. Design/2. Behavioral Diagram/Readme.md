@@ -1,1 +1,1 @@
-
+Behavioral (or Dynamic) view: emphasizes the dynamic behavior of the system by showing collaborations among objects and changes to the internal states of objects. This view includes sequence diagrams, activity diagrams, and state machine diagrams.
