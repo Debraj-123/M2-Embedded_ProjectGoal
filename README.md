@@ -1,1 +1,1 @@
-# M2-Embedded_ProjectGoal
+# M2-Embedded_SeatHeatingApplication
