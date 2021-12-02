@@ -6,3 +6,4 @@
 
 ![image](https://user-images.githubusercontent.com/94230294/144284522-f6c80783-adda-42b9-b2dc-9f00c8ce9359.png)
 
+[![CI](https://github.com/Debraj-123/M2-Embedded_SeatHeatingApplication/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Debraj-123/M2-Embedded_SeatHeatingApplication/actions/workflows/main.yml)
