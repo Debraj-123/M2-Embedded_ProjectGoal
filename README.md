@@ -10,3 +10,4 @@
 
 [![Compile-Linux](https://github.com/Debraj-123/M2-Embedded_SeatHeatingApplication/actions/workflows/Compile.yml/badge.svg)](https://github.com/Debraj-123/M2-Embedded_SeatHeatingApplication/actions/workflows/Compile.yml)
 
+[![Cppcheck](https://github.com/Debraj-123/M2-Embedded_SeatHeatingApplication/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Debraj-123/M2-Embedded_SeatHeatingApplication/actions/workflows/CodeQuality.yml)
